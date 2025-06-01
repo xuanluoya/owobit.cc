@@ -1,0 +1,66 @@
+# Configure main menu and social menu
+
+[[main]]
+identifier = "about"
+name = "你的约定"
+url = "/about"
+weight = 2
+[main.params]
+icon = "user"
+newTab = false
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/xuanluoya"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/@Xuanluo_Qiu"
+
+[social.params]
+icon = "brand-twitter"
+
+[[social]]
+identifier = "bilibili"
+name = "bilibili"
+url = "https://space.bilibili.com/172193009"
+
+[social.params]
+icon = "brand-bilibili"
+
+[[social]]
+identifier = "email"
+name = "e-mail"
+url = "mailto:vioercer@outlook.com"
+
+[social.params]
+icon = "mail"
+
+[[social]]
+identifier = "bsky"
+name = "bsky"
+url = "https://bsky.app/profile/qiuxuanluo.bsky.social"
+
+[social.params]
+icon = "brand-bluesky"
+
+[[social]]
+identifier = "mastodon"
+name = "mastodon"
+url = "https://mastodon.social/@Xuanluo"
+
+[social.params]
+icon = "brand-mastodon"
+
+[[social]]
+identifier = "matrix"
+name = "matrix"
+url = "matrix: qiuxuanluo:matrix.org"
+
+[social.params]
+icon = "brand-matrix"
