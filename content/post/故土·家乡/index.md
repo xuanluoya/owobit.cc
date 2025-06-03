@@ -1,15 +1,13 @@
 ---
 title: 故土·家乡
 description: 原来我已经走了好久....
-data: 2025-6-2 3:13
+date: 2025-06-02T03:13:00+08:00
 image: image-1.png
 categories:
   - 随手记
 tags:
   - 记录
   - 思考
-# 暂时的
-weight: 1
 ---
 
 ## 家乡
